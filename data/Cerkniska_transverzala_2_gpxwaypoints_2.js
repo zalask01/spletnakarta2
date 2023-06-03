@@ -1,0 +1,1 @@
+var json_Cerkniska_transverzala_2_gpxwaypoints_2 = {"type":"FeatureCollection","name":"Cerkniska_transverzala_2_gpxwaypoints_2","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[]}

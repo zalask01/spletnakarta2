@@ -1,0 +1,1 @@
+var json_Po_medvedovih_stopinjah_corrgpxwaypoints_2 = {"type":"FeatureCollection","name":"Po_medvedovih_stopinjah_corrgpxwaypoints_2","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[]}
